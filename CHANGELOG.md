@@ -1,0 +1,2 @@
+- V1.0.0: Creacion de microservicios
+- V1.1.0: Creacion de endpoint despedida
