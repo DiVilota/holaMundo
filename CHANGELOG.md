@@ -1,2 +1,3 @@
 - V1.0.0: Creacion de microservicios
 - V1.1.0: Creacion de endpoint despedida
+- V1.1.1: Correción de bug en holamundo

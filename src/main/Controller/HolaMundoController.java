@@ -13,12 +13,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/api/v1")
 
 public class HolaMundoController {
+    @GetMapping("/hola")
     public String holaMundo() {
-        return "Hola Mundo v1.0.0";
+        return "Hola Mundo v1.1.1";
     }
 
     @PostMapping("/despedida")
     public String despedida() {
-        return "Adios Mundo v1.0.0";
+        return "Adios Mundo v1.1.1";
     }
 }
